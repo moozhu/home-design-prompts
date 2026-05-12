@@ -1,6 +1,6 @@
 # Home Design Prompts - 家居家装AI提示词生成器
 
-**怕有的小白不会用，这里说明一下。直接下载整个项目，然后用字节的TRAE软件打开这个文件夹，让它直接跑起来就行了。如果只是单纯要skill，直接下载".trae/skills/home-design-prompts"目录下的SKILL.md 文件就行**
+**本项目免费开源，仅供学习！！怕有的小白不会用，这里说明一下。直接下载整个项目，然后用字节的TRAE软件打开这个文件夹，让它直接跑起来就行了。如果只是单纯要skill，直接下载".trae/skills/home-design-prompts"目录下的SKILL.md 文件就行**
 
 一个专业的家居家装Midjourney/Image2提示词生成工具，支持对话式引导、提示词优化和图像生成功能。
 
